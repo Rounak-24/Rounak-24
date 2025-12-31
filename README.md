@@ -19,7 +19,7 @@ I'm a backend developer focused on building reliable, scalable systems — speci
   <a href="https://expressjs.com/" title="Express.js"><img alt="Express" src="https://cdn.simpleicons.org/express/000000" width="28" height="28" style="margin-right:8px" /></a>
   <a href="https://www.mysql.com/" title="MySQL"><img alt="MySQL" src="https://cdn.simpleicons.org/mysql/4479A1" width="28" height="28" style="margin-right:8px" /></a>
   <a href="https://www.mongodb.com/" title="MongoDB"><img alt="MongoDB" src="https://cdn.simpleicons.org/mongodb/47A248" width="28" height="28" style="margin-right:8px" /></a>
-  <a href="https://code.visualstudio.com/" title="VS Code"><img alt="VS Code" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="28" height="28" style="margin-right:8px" /></a>
+  <a href="https://code.visualstudio.com/" title="VS Code"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" width="28" height="28" style="margin-right:8px" /></a>
   <a href="https://www.cursor.so" title="Cursor"><img alt="Cursor" src="https://cdn.simpleicons.org/cursor/111827" width="28" height="28" style="margin-right:8px" /></a>
   <a href="https://www.postman.com/" title="Postman"><img alt="Postman" src="https://cdn.simpleicons.org/postman/FF6C37" width="28" height="28" style="margin-right:8px" /></a>
   <a href="https://www.mongodb.com/products/compass" title="MongoDB Compass"><img alt="MongoDB Compass" src="https://cdn.simpleicons.org/mongodb/47A248" width="28" height="28" style="margin-right:8px" /></a>
@@ -35,7 +35,7 @@ I'm a backend developer focused on building reliable, scalable systems — speci
   <a href="https://www.instagram.com/geeky_rounak_/" title="Instagram"><img alt="Instagram" src="https://cdn.simpleicons.org/instagram/E4405F" width="28" height="28" style="margin-right:8px" /></a>
   <a href="https://www.facebook.com/profile.php?id=100081839711946" title="Facebook"><img alt="Facebook" src="https://cdn.simpleicons.org/facebook/1877F2" width="28" height="28" style="margin-right:8px" /></a>
   <a href="https://x.com/mitra_rounak_" title="X"><img alt="X" src="https://cdn.simpleicons.org/x/000000" width="28" height="28" style="margin-right:8px" /></a>
-  <a href="https://www.linkedin.com/in/rounak-mitra-02a7b4273/" title="LinkedIn"><img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" style="margin-right:8px" /></a>
+  <a href="https://www.linkedin.com/in/rounak-mitra-02a7b4273/" title="LinkedIn"><img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" width="28" height="28" style="margin-right:8px" /></a>
   <a href="https://leetcode.com/u/Algo-boy/" title="LeetCode"><img alt="LeetCode" src="https://cdn.simpleicons.org/leetcode/FFA116" width="28" height="28" style="margin-right:8px" /></a>
   <a href="https://codeforces.com/profile/Algo-boy" title="Codeforces">
     <img alt="Codeforces" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" width="28" height="28" style="margin-right:8px" />
