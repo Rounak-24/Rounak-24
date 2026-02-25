@@ -37,9 +37,6 @@ I'm a backend developer focused on building reliable, scalable systems — speci
   <a href="https://x.com/mitra_rounak_" title="X"><img alt="X" src="https://cdn.simpleicons.org/x/000000" width="28" height="28" style="margin-right:8px" /></a>
   <a href="https://www.linkedin.com/in/rounak-mitra-02a7b4273/" title="LinkedIn"><img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" width="28" height="28" style="margin-right:8px" /></a>
   <a href="https://leetcode.com/u/Algo-boy/" title="LeetCode"><img alt="LeetCode" src="https://cdn.simpleicons.org/leetcode/FFA116" width="28" height="28" style="margin-right:8px" /></a>
-  <a href="https://codeforces.com/profile/Algo-boy" title="Codeforces">
-    <img alt="Codeforces" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" width="28" height="28" style="margin-right:8px" />
-  </a>
   <a href="https://www.geeksforgeeks.org/profile/rounakmb4yu" title="GeeksforGeeks"><img alt="GeeksforGeeks" src="https://cdn.simpleicons.org/geeksforgeeks/0F9D58" width="28" height="28" style="margin-right:8px" /></a>
 </p>
 
