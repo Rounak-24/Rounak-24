@@ -11,7 +11,7 @@ I'm a backend developer focused on building reliable, scalable systems — speci
 ## 🛠 Languages & Tools
 
 <p>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img alt="C" src="https://cdn.simpleicons.org/c/00599C" width="28" height="28" style="margin-right:8px" /></a>
+  <!-- <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img alt="C" src="https://cdn.simpleicons.org/c/00599C" width="28" height="28" style="margin-right:8px" /></a> -->
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++"><img alt="C++" src="https://cdn.simpleicons.org/cplusplus/00599C" width="28" height="28" style="margin-right:8px" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img alt="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E" width="28" height="28" style="margin-right:8px" /></a>
   <a href="https://www.typescriptlang.org/" title="TypeScript"><img alt="TypeScript" src="https://cdn.simpleicons.org/typescript/3178C6" width="28" height="28" style="margin-right:8px" /></a>
@@ -24,11 +24,11 @@ I'm a backend developer focused on building reliable, scalable systems — speci
   <a href="https://www.mongodb.com/" title="MongoDB"><img alt="MongoDB" src="https://cdn.simpleicons.org/mongodb/47A248" width="28" height="28" style="margin-right:8px" /></a>
   <a href="https://www.docker.com/" title="Docker"><img alt="Docker" src="https://cdn.simpleicons.org/docker/2496ED" width="28" height="28" style="margin-right:8px" /></a>
   <a href="https://code.visualstudio.com/" title="VS Code"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png" width="28" height="28" style="margin-right:8px" /></a>
-  <a href="https://www.cursor.so" title="Cursor"><img alt="Cursor" src="https://cdn.simpleicons.org/cursor/111827" width="28" height="28" style="margin-right:8px" /></a>
+  <!-- <a href="https://www.cursor.so" title="Cursor"><img alt="Cursor" src="https://cdn.simpleicons.org/cursor/111827" width="28" height="28" style="margin-right:8px" /></a> -->
   <a href="https://www.postman.com/" title="Postman"><img alt="Postman" src="https://cdn.simpleicons.org/postman/FF6C37" width="28" height="28" style="margin-right:8px" /></a>
-  <a href="https://www.mongodb.com/products/compass" title="MongoDB Compass"><img alt="MongoDB Compass" src="https://cdn.simpleicons.org/mongodb/47A248" width="28" height="28" style="margin-right:8px" /></a>
-  <a href="https://aws.amazon.com/" title="AWS"><img alt="AWS" src="https://cdn.simpleicons.org/amazonaws/232F3E" width="28" height="28" style="margin-right:8px" /></a>
-  <a href="https://render.com/" title="Render"><img alt="Render" src="https://cdn.simpleicons.org/render/1D1F23" width="28" height="28" style="margin-right:8px" /></a>
+  <!-- <a href="https://www.mongodb.com/products/compass" title="MongoDB Compass"><img alt="MongoDB Compass" src="https://cdn.simpleicons.org/mongodb/47A248" width="28" height="28" style="margin-right:8px" /></a>
+  <a href="https://aws.amazon.com/" title="AWS"><img alt="AWS" src="[https://cdn.simpleicons.org/amazonaws/232F3E](https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2023/02/16/aws_bp_primarylogo_01.png)" width="28" height="28" style="margin-right:8px" /></a> -->
+  <!-- <a href="https://render.com/" title="Render"><img alt="Render" src="https://cdn.simpleicons.org/render/1D1F23" width="28" height="28" style="margin-right:8px" /></a> -->
 </p>
 
 ---
@@ -48,8 +48,7 @@ I'm a backend developer focused on building reliable, scalable systems — speci
 
 ## ⭐ GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rounak-24&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rounak-24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rounak-24&theme=tokyonight&hide_border=true)
 
 ---
