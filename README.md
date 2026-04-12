@@ -1,11 +1,10 @@
 # Hi, I'm Rounak 👋
 
-I'm a backend developer focused on building reliable, scalable systems — specializing in backend development, database design, and system design. I design robust APIs, model data for scale, and architect systems that handle production load. Willing to design large scale production level systems in future.
+I'm a backend developer focused on building reliable, scalable systems — specializing in backend development, database design, AI Integration and system design. I design robust APIs, model data for scale, and architect systems that handle production load. Willing to design large scale production level systems in future.
 
-- 🔭 I’m currently working on: Backend systems, APIs, and scalable data models  
-- 🌱 I’m learning: Backend technologies, system design patterns, distributed databases, and performance tuning  
-- 💬 Ask me about: Backend architecture, DB schema design, ER modelling, indexing, caching, message-driven systems, last but not the least DSA  
-- ⚡ Fun fact: I enjoy turning messy data requirements into clean, pragmatic schemas
+- 🔭 I’m currently working on: Backend systems, APIs, and Generative AI 
+- 🌱 I’m learning: Backend technologies, system design patterns, distributed databases, AI Integration and performance tuning  
+- 💬 Ask me about: Backend architecture, DB schema design, ER modelling, indexing, caching, message-driven systems
 
 ---
 
