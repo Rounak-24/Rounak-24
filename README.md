@@ -1,6 +1,6 @@
 # Hi, I'm Rounak 👋
 
-I'm a backend developer focused on building reliable, scalable systems — specializing in backend development, database design, AI Integration and system design. I design robust APIs, model data efficiently.
+I'm a backend developer focused on building reliable, scalable systems — specializing in backend development, database design, AI Integration and system design. I design robust APIs, model data efficiently, and leverage AI to solve complex problems.
 
 - 🔭 I'm currently working on: Backend systems, APIs, and Generative AI 
 - 🌱 I'm learning: Backend technologies, system design patterns, distributed databases, AI Integration and performance tuning  
@@ -26,8 +26,9 @@ I'm a backend developer focused on building reliable, scalable systems — speci
   <a href="https://code.visualstudio.com/" title="VS Code"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png" width="28" height="28" style="margin-right:8px" /></a>
   <!-- <a href="https://www.cursor.so" title="Cursor"><img alt="Cursor" src="https://cdn.simpleicons.org/cursor/111827" width="28" height="28" style="margin-right:8px" /></a> -->
   <a href="https://www.postman.com/" title="Postman"><img alt="Postman" src="https://cdn.simpleicons.org/postman/FF6C37" width="28" height="28" style="margin-right:8px" /></a>
-  <!-- <a href="https://www.mongodb.com/products/compass" title="MongoDB Compass"><img alt="MongoDB Compass" src="https://cdn.simpleicons.org/mongodb/47A248" width="28" height="28" style="margin-right:8px" /></a>
-  <a href="https://aws.amazon.com/" title="AWS"><img alt="AWS" src="[https://cdn.simpleicons.org/amazonaws/232F3E](https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2023/02/16/aws_bp_primarylogo_01.png)" width="28" height="28" style="margin-right:8px" /></a> -->
+  <!-- <a href="https://www.mongodb.com/products/compass" title="MongoDB Compass"><img alt="MongoDB Compass" src="https://cdn.simpleicons.org/mongodb/47A248" width="28" height="28" style="margin-right:8px" /></a> -->
+  <a href="https://aws.amazon.com/" title="AWS"><img alt="AWS" src="https://cdn.simpleicons.org/amazonaws/232F3E" width="28" height="28" style="margin-right:8px" /></a>
+  <a href="https://www.langchain.com/" title="LangChain"><img alt="LangChain" src="https://cdn.simpleicons.org/langchain/1C3C3C" width="28" height="28" style="margin-right:8px" /></a>
   <!-- <a href="https://render.com/" title="Render"><img alt="Render" src="https://cdn.simpleicons.org/render/1D1F23" width="28" height="28" style="margin-right:8px" /></a> -->
 </p>
 
