@@ -29,7 +29,7 @@ I'm a backend developer focused on building reliable, scalable systems — speci
     <td align="center" width="80"><a href="https://www.docker.com/" title="Docker"><img alt="Docker" src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" /></a><br/>Docker</td>
     <td align="center" width="80"><a href="https://code.visualstudio.com/" title="VS Code"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48" /></a><br/>VS Code</td>
     <td align="center" width="80"><a href="https://www.postman.com/" title="Postman"><img alt="Postman" src="https://cdn.simpleicons.org/postman/FF6C37" width="48" height="48" /></a><br/>Postman</td>
-    <td align="center" width="80"><a href="https://aws.amazon.com/" title="AWS"><img alt="AWS" src="https://cdn.simpleicons.org/amazonaws/232F3E" width="48" height="48" /></a><br/>AWS</td>
+    <td align="center" width="80"><a href="https://www.prisma.io/" title="Prisma"><img alt="Prisma" src="https://cdn.simpleicons.org/amazonaws/2D3748" width="48" height="48" /></a><br/>AWS</td>
     <td align="center" width="80"><a href="https://www.langchain.com/" title="LangChain"><img alt="LangChain" src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" /></a><br/>LangChain</td>
   </tr>
 </table>
@@ -46,9 +46,9 @@ I'm a backend developer focused on building reliable, scalable systems — speci
     <td align="center" width="80"><a href="https://www.linkedin.com/in/rounak-mitra-02a7b4273/" title="LinkedIn"><img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" width="48" height="48" /></a><br/>LinkedIn</td>
     <td align="center" width="80"><a href="https://leetcode.com/u/Algo-boy/" title="LeetCode"><img alt="LeetCode" src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48" /></a><br/>LeetCode</td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td align="center" width="80"><a href="https://www.geeksforgeeks.org/profile/rounakmb4yu" title="GeeksforGeeks"><img alt="GeeksforGeeks" src="https://cdn.simpleicons.org/geeksforgeeks/0F9D58" width="48" height="48" /></a><br/>GeeksforGeeks</td>
-  </tr>
+  </tr> -->
 </table>
 
 ---
